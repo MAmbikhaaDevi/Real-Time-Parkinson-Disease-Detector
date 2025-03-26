@@ -15,29 +15,26 @@ healthy person will look almost similar to a standard spiral or wave shape. A pe
 Parkinson’s Disease will highly deviate from a perfect spiral or wave shape. Then look distorted 
 due to slow motor movements and decreased coordination between hand and brain.
 
-Streamlit:
+# Streamlit:
 
 Role: Create user-friendly web applications for interaction with the machine learning model.
 
 Functionality:
+   1. Collect user input (e.g., upload voice samples, record drawing tasks).
+   2. Display the results of the machine learning analysis.
+   3. Provide an intuitive interface for users, even without technical expertise.
 
-Collect user input (e.g., upload voice samples, record drawing tasks).
-
-Display the results of the machine learning analysis.
-
-Provide an intuitive interface for users, even without technical expertise.
-
-OpenCV Canvas:
+# OpenCV Canvas:
 
 Role:  OpenCV is a library for image and video processing. A "canvas" in this context refers to a space where users can perform actions that OpenCV can capture and analyze.
 
 Functionality in Parkinson's Detection:
 
-Drawing Analysis: Patients could draw specific patterns on a canvas within the Streamlit app. OpenCV can then analyze these drawings for features like tremor or micrographia (small handwriting), which are Parkinson's symptoms.
+   1. Drawing Analysis: Patients could draw specific patterns on a canvas within the Streamlit app. OpenCV can then analyze these drawings for features like tremor or micrographia (small handwriting), which are Parkinson's symptoms.
 
-Movement Tracking: If combined with a video feed, OpenCV could track hand movements or gait patterns.
+   2. Movement Tracking: If combined with a video feed, OpenCV could track hand movements or gait patterns.
 
-In essence: Machine learning models detect patterns, Streamlit provides the interface, and OpenCV helps capture and process relevant data from user actions.
+# In essence: Machine learning models detect patterns, Streamlit provides the interface, and OpenCV helps capture and process relevant data from user actions.
 
 Source Code : https://drive.google.com/drive/folders/135YolvuI1Ossu-MarpogFkSGBzjg4gy7
 
