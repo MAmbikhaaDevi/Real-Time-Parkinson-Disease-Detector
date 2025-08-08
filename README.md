@@ -36,7 +36,7 @@ Functionality in Parkinson's Detection:
 
 # In essence: Machine learning models detect patterns, Streamlit provides the interface, and OpenCV helps capture and process relevant data from user actions.
 
-Source Code : https://drive.google.com/drive/folders/135YolvuI1Ossu-MarpogFkSGBzjg4gy7
+Datasets & Souce code : https://drive.google.com/drive/folders/135YolvuI1Ossu-MarpogFkSGBzjg4gy7
 
 Real Time Drawing :
 
